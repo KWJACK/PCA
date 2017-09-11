@@ -55,6 +55,7 @@ Each stage goes as following:
 <br>
 
 - Graph
+
 ![result_graph](/assets/result_graph.png)
 
 
