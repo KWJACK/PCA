@@ -9,6 +9,7 @@ To recognize human face, I use the PCA. For this I must calculate eigenvectors a
 
 # Train and Test image
 - From here, training people are used 6 people and each person's face is prepared 8 images. Fase photos are little different such as face side or sight direction.
+
 ![face_example](/assets/face_example.JPG)
 
 - Test images are different with training images. For example someone takes off the glassess.
