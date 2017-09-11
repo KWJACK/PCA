@@ -59,7 +59,7 @@ Each stage goes as following:
 ![result_graph](/assets/result_graph.png)
 
 
-# Refence
+# Reference
 - PCA / A tutorial on Principal Components Analysis.pdf – Lindsay I Smith / Feb 26, 2002
 - Wavelet 압축 영상에서 PCA를 이용한 얼굴 인식률 비교 / 박장한, 남궁 재찬 / 전자공학회논문지 / Sep, 2004
 - Principal Component Analysis.pdf / 황선규 / Aug 09, 2005
